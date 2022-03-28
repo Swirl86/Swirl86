@@ -16,9 +16,12 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
 <h1 align="center">Hi 🙋‍♀️, I'm Susanne</h1>
+<img src="https://github.com/Swirl86/Swirl86/blob/main/avatar.png" align="right" width="150" height="150"/>
 <h3 align="center">A passionate developer from Sweden</h3>
 <h4 align="center">🔭 I’m currently attending a polytechnic Java developer education August 2020 - April 2022</h3>
 <h4 align="center">🌱 I’m currently learning Flutter/Dart and Firebase.</br>I have also learnd Kotlin, Java, JavaScript, React, SQLite, MySQL, MongoDB, Spring Boot, Vue, HTML and CSS through this education.</h3> 
+
+<br clear="left"/>
 
 ---------------------------------
 <h3 align="left">Languages and Tools:</h3>
