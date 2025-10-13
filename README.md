@@ -16,12 +16,15 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
 <h1 align="center">Hi 🙋‍♀️, I'm Susanne</h1>
-<img src="https://github.com/Swirl86/Swirl86/blob/main/avatar.png" align="right" width="150" height="150"/>
 <h3 align="center">A passionate developer from Sweden</h3>
 <h4 align="center">Some of my favorite things to work with in programming are Kotlin, Flutter and React.js.</h3>
 
-<h4 align="center">My Github contains mostly school projects or self-learning projects. 😄</h4>
+<h4 align="center">
+   My Github contains mostly school projects or self-learning projects.<br>
+   My goal is to improve my coding structure and continuously develop how I build projects and implement new knowledge.
+</h4>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swirl86&show_icons=true&locale=en&layout=compact" alt="swirl86" /></p>
-
+<p align="center">
+  <img src="https://github.com/Swirl86/Swirl86/blob/main/avatar.png" width="200" height="200" style="display:inline-block; margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swirl86&show_icons=true&locale=en&layout=compact" style="display:inline-block;" />
+</p>
