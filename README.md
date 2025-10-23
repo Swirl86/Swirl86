@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
-<h1 align="center">Hi 🙋‍♀️, I'm Susanne</h1>
-<h3 align="center">A passionate developer from Sweden</h3>
-<h4 align="center">Some of my favorite things to work with in programming are Kotlin, Flutter and React.js.</h3>
+<h1 align="center">Hi 🙋‍♀️, I'm Susanne <br>✨ A passionate developer from Sweden ✨</h1>
 
-<h4 align="center">
-   My Github contains mostly school projects or self-learning projects.<br>
-   My goal is to improve my coding structure and continuously develop how I build projects and implement new knowledge.
-</h4>
+<p>
+I use my GitHub to demonstrate my code structure, project organization, and problem-solving approach.<br>
+I’m continuing to build my career as a developer, focusing on improving my coding skills and exploring new technologies.<br>
+Some of the languages I enjoy working with are <b>Kotlin</b>, <b>Flutter</b>, and <b>React.js</b>, but I’m always excited to learan new languages and technologies.
+</p>
+
+<p>
+Gaps in my GitHub contributions (from 2024 onwards) often reflect periods where I focus on studying theory, creating small test projects to explore new technologies, or completing programming challenges from potential employers. I use these opportunities to continuously improve my programming skills, even if it’s not immediately visible in the contribution graph.<br>
+The largest gaps typically occur during summer and winter holidays when my children are off school.
+</p>
 
 <p align="center">
   <img src="https://github.com/Swirl86/Swirl86/blob/main/avatar.png" width="200" height="200" style="display:inline-block; margin-right: 20px;" />
