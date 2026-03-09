@@ -28,7 +28,7 @@ Gaps in my GitHub contributions (from 2024 onwards) often reflect periods where 
 The largest gaps typically occur during summer and winter holidays when my children are off school.
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/Swirl86/Swirl86/blob/main/avatar.png" width="200" height="200" style="display:inline-block; margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swirl86&show_icons=true&locale=en&layout=compact" style="display:inline-block;" />
-</p>
+</p>-->
